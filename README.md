@@ -14,4 +14,4 @@
 
 ## مشاهده آنلاین
 این رزومه از طریق GitHub Pages در آدرس زیر قابل مشاهده است:  
-[https://thecodingparsa.github.io/](https://thecodingparsa.github.io/)
+[https://github.com/thecodingParsa/digital_resum/](https://github.com/thecodingParsa/digital_resum)
